@@ -9,8 +9,10 @@
   },
   "scripts": {},
   "dependencies": {
+    "aws-sdk": "^2.286.2",
     "mongodb": "^3.1.1",
-    "mongoose": "^5.2.6"
+    "mongoose": "^5.2.6",
+    "request": "^2.87.0"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
